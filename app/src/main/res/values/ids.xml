@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones_array">
+        <item>ISIC</item>
+        <item>ITIC</item>
+        <item>IGEM</item>
+        <item>IELC</item>
+        <item>IELM</item>
+        <item>IIND</item>
+    </string-array>
+    <item name="No3" type="id" />
+</resources>
